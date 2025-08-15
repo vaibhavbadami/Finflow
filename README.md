@@ -20,3 +20,4 @@ It helps you record, categorize, and visualize your expenses in real time with a
 - **Backend**: Python
 - **Database**: SQLite
 - **Libraries**: Pandas, Plotly/Matplotlib, Streamlit Auth Components
+ u can try at https://finfloww.streamlit.app
